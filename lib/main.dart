@@ -109,7 +109,7 @@ class LayoutApp extends StatelessWidget {
                                           size: 15, color: Colors.amber),
                                       Text(
                                         "PREP",
-                                        style: TextStyle(fontSize: 10),
+                                        style: TextStyle(fontSize: 15),
                                       ),
                                       Text(
                                         "25 Min",
